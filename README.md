@@ -19,6 +19,7 @@ ESP8266内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速�
 * [参考资源](demo/)
 * [工程文件](project/)
 * [工具资源](tools/)
+* [环境配置](env/)
 
 开发工具资源
 
