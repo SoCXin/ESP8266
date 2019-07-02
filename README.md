@@ -1,11 +1,8 @@
 ﻿# [ESP8266](https://github.com/mcuyun/ESP8266) 
 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
-
-####  qitas@qitas.cn
-
-#### 归属：[MIPS](https://github.com/sochub/MIPS) 
-
+#### 厂商：[espressif 乐鑫](https://github.com/sochub/espressif)
+#### 架构：[MIPS](https://github.com/sochub/MIPS)
 ## [描述](https://github.com/sochub/ESP8266/wiki) 
 
 ESP8266内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速度最高可达 160 MHz
@@ -18,30 +15,20 @@ ESP8266内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速�
 
 器件封装：(5mm x 5mm) 
 
-#### [docs](docs/)
-
-参考设计和数据手册
-
-#### [资源文件](src/)
-
-开发依赖资源文件
-
-#### [工程文件](project/)
-
-包括软硬件设计资源
-
-#### [开发工具](tools/)
+* [docs](docs/)
+* [参考资源](demo/)
+* [工程文件](project/)
+* [工具资源](tools/)
 
 开发工具资源
 
-### [相似方案](https://github.com/sochub/ESP8266)
+### [选型方案](https://github.com/sochub)
 
-##### [ESP32](https://github.com/sochub/ESP32) 
+* [ESP32](https://github.com/sochub/ESP32) 
 
-##### [RTL8710](https://github.com/sochub/RTL8710)
+*  [RTL8710](https://github.com/sochub/RTL8710)
 
-##### [RDA5981](https://github.com/sochub/RDA5981)
+*  [RDA5981](https://github.com/sochub/RDA5981)
 
----
 
-###  [SoC开发平台](http://www.qitas.cn)   
+###  [SoC资源平台](http://www.qitas.cn)   
