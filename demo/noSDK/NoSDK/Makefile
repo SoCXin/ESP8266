@@ -19,7 +19,7 @@ MAIN_MHZ?=320 #Pick from *52, *80, 104 or *115, 160, *173, *189#, 231, 346, 378#
 USE_I2S?=YES
 #USE_PRINT:=YES
 
-ESP_OPEN_SDK:=~/esp8266/esp-open-sdk
+ESP_OPEN_SDK:=~/esp/esp-open-sdk
 
 FW_1 = image.elf-0x10000.bin
 FW_2 = image.elf-0x00000.bin
