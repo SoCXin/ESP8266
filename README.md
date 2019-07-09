@@ -58,5 +58,4 @@ ESP8266内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速�
 
 相应的后起之秀包括 [RTL8710](https://github.com/sochub/RTL8710)和 [RDA5981](https://github.com/sochub/RDA5981)，都是基于[Cortex M](https://github.com/sochub/CM) 系列内核开发，更偏向主流的开发群体。
 
-
 ###  [SoC资源平台](http://www.qitas.cn)
