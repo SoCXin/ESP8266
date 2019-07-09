@@ -2,7 +2,8 @@
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 #### 厂商：[espressif](https://github.com/sochub/espressif)
 #### 架构：[MIPS](https://github.com/sochub/MIPS)
-## [描述](https://github.com/sochub/ESP8266/wiki) 
+#### 收录芯片定级：[Level](https://github.com/sochub/Level)
+## [ESP8266描述](https://github.com/sochub/ESP8266/wiki) 
 
 ESP8266内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速度最高可达 160 MHz，可将高达 80% 的处理能力留给应用编程和开发。
 
