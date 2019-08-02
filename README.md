@@ -1,8 +1,8 @@
 ﻿# [ESP8266](https://github.com/sochub/ESP8266) 
 [![sites](SoC/SoC.png)](http://www.qitas.cn) 
 #### 厂商：[espressif](https://github.com/sochub/espressif)
-#### 架构：[MIPS](https://github.com/sochub/MIPS)
-#### 收录芯片定级：[Level](https://github.com/sochub/Level)
+#### 架构：[MIPS LX106](https://github.com/sochub/MIPS)
+#### 芯片定级：[Level](https://github.com/sochub/Level)
 ## [ESP8266描述](https://github.com/sochub/ESP8266/wiki) 
 
 ESP8266内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速度最高可达 160 MHz，可将高达 80% 的处理能力留给应用编程和开发。
@@ -36,9 +36,17 @@ ESP8266内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速�
 * Operating temperature range -40C ~ 125C
 * FCC, CE, TELEC, WiFi Alliance, and SRRC certified
 
-主要特点：低成本高集成度WiFi SoC，开源资源丰富
+[![sites](SoC/ESP8266EX.jpg)](https://www.espressif.com/zh-hans/products/hardware/esp8266ex/overview) 
 
-器件封装： QFN32 (5mm x 5mm)
+[![sites](SoC/ESP8266PWR.jpg)](https://www.espressif.com/zh-hans/products/hardware/esp8266ex/overview) 
+
+### 芯片封装
+
+ESP8266封装： QFN 32 (5mm x 5mm)
+
+[![sites](SoC/ESP8266P.jpg)](https://www.espressif.com/zh-hans/products/hardware/esp8266ex/overview) 
+
+集成flash版本 ESP8285 封装： QFN 32 (5mm x 5mm)
 
 ### [收录资源](https://github.com/sochub/ESP8266)
 
@@ -49,7 +57,7 @@ ESP8266内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速�
 
 ### [关联资源](https://github.com/sochub)
 
-* [xtensa开发环境](https://github.com/sochub/xtensa)
+* [xtensa环境](https://github.com/sochub/xtensa)
 * [xtensa-lx106编译](https://github.com/sochub/xtensa-lx106)
 
 ### [选型建议](https://github.com/sochub)
