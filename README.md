@@ -6,16 +6,16 @@
 #### [MIPS](https://github.com/sochub/MIPS)：[Tensilica](https://ip.cadence.com/ipportfolio/tensilica-ip) [Xtensa L106](https://github.com/sochub)
 #### [Level](https://github.com/sochub/Level)：1.22DMIPS/MHz x 160MHz
 
-## [ESP8266芯片描述](https://github.com/sochub/ESP8266/wiki) 
+## [芯片描述](https://github.com/sochub/ESP8266/wiki) 
 
 [ESP8266](https://github.com/sochub/ESP8266) 内置超低功耗 Tensilica L106 32 位 RISC 处理器，CPU 时钟速度最高可达 160 MHz，可将高达 80% 的处理能力留给应用编程和开发。
 
-延伸型号 [ESP8285](https://github.com/sochub/ESP8266)内置1MB flash，可以实现更紧凑的板上设计。
+扩展型号[ESP8285](https://github.com/sochub/ESP8266)在封装不变的情况下内置1MB flash，可以实现更紧凑的板上设计。
 
 [![sites](docs/ESP8266.jpg)](https://www.espressif.com/zh-hans/products/hardware/esp8266ex/overview) 
 
 
-#### 关键参数
+### 关键参数
 
 [![sites](docs/ESP8266EX.jpg)](https://www.espressif.com/zh-hans/products/hardware/esp8266ex/overview) 
 
@@ -23,6 +23,9 @@
 * +20dBm in 802.11b；STBC, 1x1 MIMO, 2x1 MIMO
 * Integrated TR switch, balun, LNA, power amplifier and matching network
 * SDIO 2.0, (H) SPI, UART, I2C, I2S, IR Remote Control, PWM, GPIO
+
+#### 功率参数
+
 * Deep sleep <10uA, Power down< 5uA，Standby < 1.0mW (DTIM3)，Wake up and transmit packets in < 2ms
 
 [![sites](docs/ESP8266PWR.jpg)](https://www.espressif.com/zh-hans/products/hardware/esp8266ex/overview) 
@@ -42,7 +45,7 @@ ESP8285封装： QFN 32 (5mm x 5mm)
 
 [![sites](docs/ESP8266P.jpg)](https://www.espressif.com/zh-hans/products/hardware/esp8266ex/overview) 
 
-### 资源分析
+### 内存分析
 
 * IRAM 空间为 64 KB
 
@@ -60,8 +63,13 @@ ESP8285封装： QFN 32 (5mm x 5mm)
 ### [关联资源](https://github.com/sochub)
 
 * [ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK)
-* [platform H8](https://github.com/OS-Q/H8)
+* [ESP8266_NONOS_SDK](https://github.com/espressif/ESP8266_NONOS_SDK)
+* [esp-open-rtos](https://github.com/SuperHouse/esp-open-rtos)
 * [esp-open-sdk](https://github.com/pfalcon/esp-open-sdk)
+
+#### [整合资源](https://github.com/sochub)
+
+* [platform H8](https://github.com/OS-Q/H8)
 * [xtensa-lx106 编译器](https://github.com/sochub/xtensa-lx106)
 
 
